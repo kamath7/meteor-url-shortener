@@ -1,0 +1,14 @@
+{
+  "name": "url-shortener",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.10.4",
+    "jquery": "^3.5.1",
+    "meteor-node-stubs": "^1.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
