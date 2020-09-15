@@ -1,11 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
+import CreateLink from './components/CreateLink';
 import Header from './components/Header';
 const App = () => {
   return (
     <div>
       <Header/>
+      <CreateLink/>
     </div>
   );
 };
